@@ -9,14 +9,8 @@ This project used Java canvas to create a series of shapes with different color 
 
 <table>
   <tr>
-    <td>Main event</td>
-     <td>Basic Chat</td>
-     <td>Shared Map</td>
-  </tr>
-  <tr>
     <td><img src="Images/Image 6.PNG" width='' height=480></td>
     <td><img src="Images/Image 2.PNG" width='' height=480></td>
-  
   </tr>
  </table>
 
